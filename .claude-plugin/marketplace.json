@@ -1,0 +1,16 @@
+{
+  "name": "three-minds",
+  "owner": {
+    "name": "Three Minds Publishing"
+  },
+  "metadata": {
+    "description": "Plugins internos da Three Minds Publishing."
+  },
+  "plugins": [
+    {
+      "name": "estudio-video-three-minds",
+      "source": "./estudio-video-three-minds",
+      "description": "Estúdio de vídeo da Three Minds Publishing: roteiro, novelinha vertical, editor de vídeo falado, edição automática, Premiere/After Effects, Adobe, CapCut, geração com OpenAI e Runway e operação de canal."
+    }
+  ]
+}
